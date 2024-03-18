@@ -1,3 +1,6 @@
 .hide{
     display: none;
 }
+tr:hover{
+    cursor: pointer;
+}
